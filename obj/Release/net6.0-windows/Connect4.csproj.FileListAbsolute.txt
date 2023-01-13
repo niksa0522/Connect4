@@ -1,0 +1,17 @@
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\Connect4.exe
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\Connect4.deps.json
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\Connect4.runtimeconfig.json
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\Connect4.dll
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\ref\Connect4.dll
+C:\Users\Nikola\source\repos\Connect4\Connect4\bin\Release\net6.0-windows\Connect4.pdb
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.Connect4.resources
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.Properties.Resources.resources
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.dll
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\ref\Connect4.dll
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.pdb
+C:\Users\Nikola\source\repos\Connect4\Connect4\obj\Release\net6.0-windows\Connect4.genruntimeconfig.cache
